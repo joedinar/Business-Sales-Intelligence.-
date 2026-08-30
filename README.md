@@ -41,12 +41,11 @@ Findings included a clear seasonal pattern (sales peaking around March and Septe
 ## Dashboard
 The Power BI dashboard mirrors the EDA findings and adds a dedicated view of yearly aggregated sales and YoY growth. Sales dipped in 2024, then growth rebounded sharply to ~30% in 2025 before easing to ~21% in 2026 — a pattern consistent with an early-stage business absorbing startup costs before scaling.
 
-*(Add dashboard screenshots here, e.g.)*
 ```markdown
-![Executive Overview](screenshots/S1.png)
-![Product Analysis](screenshots/S2.png)
-![Customer Analysis](screenshots/S3.png)
-![Regional & Time Analysis](screenshots/S4.png)
+![Executive Overview](screenshots/S1.PNG)
+![Product Analysis](screenshots/S2.PNG)
+![Customer Analysis](screenshots/S3.PNG)
+![Regional & Time Analysis](screenshots/S4.PNG)
 ```
 
 ## Key Insights
