@@ -41,12 +41,10 @@ Findings included a clear seasonal pattern (sales peaking around March and Septe
 ## Dashboard
 The Power BI dashboard mirrors the EDA findings and adds a dedicated view of yearly aggregated sales and YoY growth. Sales dipped in 2024, then growth rebounded sharply to ~30% in 2025 before easing to ~21% in 2026 — a pattern consistent with an early-stage business absorbing startup costs before scaling.
 
-```markdown
 ![Executive Overview](screenshots/S1.PNG)
 ![Product Analysis](screenshots/S2.PNG)
 ![Customer Analysis](screenshots/S3.PNG)
 ![Regional & Time Analysis](screenshots/S4.PNG)
-```
 
 ## Key Insights
 1. Overall the business shows healthy growth, but it operates in a highly saturated US retail market alongside major competitors (Staples, Office Depot, W.B. Mason).
