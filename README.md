@@ -43,10 +43,10 @@ The Power BI dashboard mirrors the EDA findings and adds a dedicated view of yea
 
 *(Add dashboard screenshots here, e.g.)*
 ```markdown
-![Executive Overview](screenshots/page1_overview.png)
-![Product Analysis](screenshots/page2_products.png)
-![Customer Analysis](screenshots/page3_customers.png)
-![Regional & Time Analysis](screenshots/page4_regional.png)
+![Executive Overview](screenshots/S1.png)
+![Product Analysis](screenshots/S2.png)
+![Customer Analysis](screenshots/S3.png)
+![Regional & Time Analysis](screenshots/S4.png)
 ```
 
 ## Key Insights
