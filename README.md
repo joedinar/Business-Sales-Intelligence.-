@@ -35,6 +35,10 @@ Key questions explored in Python and SQL:
 - Which products and sub-categories are most and least profitable?
 - How does discount level relate to profitability?
 - What is the year-over-year sales growth rate?
+- Which products have negative profit?
+- What is the average order value?
+- How do products rank by sales within each category?
+
 
 Findings included a clear seasonal pattern (sales peaking around March and September–November), technology consistently leading in sales, and 3 of 17 sub-categories (bookcases, supplies, tables) operating at a loss.
 
